@@ -1,3 +1,6 @@
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/040f92d3-9889-473a-922b-c2688c81f682" />
+
+
 # 🧪 Periodic Table in Python
 
 > ⚛️ From struggling to memorize the periodic table in SHS to building a Python project that makes it interactive and fun 🚀
@@ -56,7 +59,19 @@ Density: 0.001429
 
 🚀 How to Run
 
-Clone the repository:
+```
+### How to run
+1.git clone https://github.com/anim-michael-asante/Periodic-table.git
+2.cd Periodic-table
+
+### Install dependencies:
+```bash
+pip install pyfiglet periodictable
+
+```
+### Run the script:
+python "Periodic Table.py"
+
 
 
 
